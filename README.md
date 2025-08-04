@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 - 🎓 I'm a **Computer Science student at FAST NUCES (Batch 2026)**  
 - 💻 I love building **full-stack apps**, experimenting with **AI & networking**, and solving real-world problems  
