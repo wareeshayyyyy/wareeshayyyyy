@@ -7,7 +7,7 @@
 
 - 🎓 I'm a **Computer Science student at FAST NUCES (Batch 2026)**  
 - 💻 I love building **full-stack apps**, experimenting with **AI & networking**, and solving real-world problems  
-- 🌱 Currently exploring advanced **React**, **FastAPI**, and **DevOps with AWS**  
+- 🌱 Currently exploring advanced **React**, **FastAPI**  
 - 🔭 Worked on projects like **Connecto**, **Pixel Craft**, **Sudoku Solver**, and **Multiplayer Chess**  
 - 🤝 Always open to **collaborations**, **internships**, and **freelance opportunities**  
 - 📫 Reach me at: `f223441@cfd.nu.edu.pk` 
